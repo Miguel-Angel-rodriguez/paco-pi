@@ -7,6 +7,6 @@ class Saludar{
     }
     function escribirSaludo(){
         echo "Hola $this->nombre";
-        echo "<hr>";
+        echo "<br>";
     }
 }
